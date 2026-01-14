@@ -1,0 +1,6 @@
+# Build artifacts
+*.zip
+fxtmpdir/
+
+# User scripts (generated)
+dont-track-me-google.user.js
